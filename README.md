@@ -13,7 +13,7 @@
 
 - C and Java developer
 
-<p align="center">
+<p align="left">
 <a href="https://x.com/FloppyCat2026"><img src="https://img.shields.io/badge/X-@FloppyCat2026-000000?style=flat-square&logo=x&logoColor=white"></a>
 </p>
 
