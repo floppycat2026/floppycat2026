@@ -38,7 +38,7 @@
 **Operating Systems**
 
 ![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Deepin](https://img.shields.io/badge/Deepin-1793D1?style=flat-square&logo=Deepin&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Deepin-1793D1?style=flat-square&logo=Ubuntu&logoColor=white)
 
 
 **Devices**
