@@ -12,6 +12,11 @@
 > "Keep striving to achieve your dreams"
 
 - C and Java developer
+
+<p align="center">
+<a href="https://x.com/FloppyCat2026"><img src="https://img.shields.io/badge/X-@FloppyCat2026-000000?style=flat-square&logo=x&logoColor=white"></a>
+</p>
+
 ---
 
 ### 🛠️ Tech Stack
@@ -38,7 +43,7 @@
 **Operating Systems**
 
 ![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Deepin-1793D1?style=flat-square&logo=Ubuntu&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
 
 **Devices**
