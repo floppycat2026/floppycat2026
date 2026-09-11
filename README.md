@@ -27,7 +27,7 @@
 - 持续学习中，一步一步把基本功打扎实
 - Linux 爱好者，喜欢折腾系统与工具链
 - 小米生态用户
-- 写代码的时候需要一杯咖啡或 $\footnotesize\textcolor{#FF69B4}{\text{魔爪}}$
+- 写代码的时候需要一杯咖啡或 $\textcolor{#FF69B4}{\text{魔爪}}$
 - 目标：成为更好的开发者
 - 座右铭：`Talk is cheap, show me the code.`
 
