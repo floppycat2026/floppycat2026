@@ -37,16 +37,16 @@
 
 **Languages & Frameworks**
 
-![C](https://img.shields.io/badge/-C-FFFFFF?style=flat-square&logo=c&logoColor=FF69B4)
+![C](https://img.shields.io/badge/-C-FFE4EC?style=flat-square&logo=c&logoColor=FF69B4)
 ![Java](https://img.shields.io/badge/-Java-FF69B4?style=flat-square&logo=java&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-FFC9D8?style=flat-square&logo=nodedotjs&logoColor=D6336C)
-![HTML+CSS+JS](https://img.shields.io/badge/-HTML%2BCSS%2BJS-FFFFFF?style=flat-square)
+![HTML+CSS+JS](https://img.shields.io/badge/-HTML%2BCSS%2BJS-FFB3C6?style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-FF69B4?style=flat-square&logo=python&logoColor=white)
 
 **Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/-Git-FFC9D8?style=flat-square&logo=git&logoColor=D6336C)
-![GitHub](https://img.shields.io/badge/-GitHub-FFFFFF?style=flat-square&logo=github&logoColor=D6336C)
+![GitHub](https://img.shields.io/badge/-GitHub-FFE4EC?style=flat-square&logo=github&logoColor=D6336C)
 ![Linux](https://img.shields.io/badge/-Linux-FF69B4?style=flat-square&logo=linux&logoColor=white)
 ![Android](https://img.shields.io/badge/-Android-FFD9E3?style=flat-square&logo=android&logoColor=D6336C)
 
@@ -56,14 +56,14 @@
 
 **Operating Systems**
 
-![Windows 11](https://img.shields.io/badge/Windows%2011-FFFFFF?style=flat-square&logo=windows&logoColor=FF69B4)
+![Windows 11](https://img.shields.io/badge/Windows%2011-FFE4EC?style=flat-square&logo=windows&logoColor=FF69B4)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-FF69B4?style=flat-square&logo=ubuntu&logoColor=white)
 
 **Devices**
 
 ![Xiaomi 14Pro](https://img.shields.io/badge/Xiaomi_14Pro-FF69B4?style=flat-square&logo=xiaomi&logoColor=white)
 ![Redmi Turbo4Pro](https://img.shields.io/badge/Redmi_Turbo4Pro-FFD9E3?style=flat-square&logo=xiaomi&logoColor=D6336C)
-![RedmiBook Pro 16](https://img.shields.io/badge/RedmiBook_Pro_16-FFFFFF?style=flat-square&logo=xiaomi&logoColor=FF69B4)
+![RedmiBook Pro 16](https://img.shields.io/badge/RedmiBook_Pro_16-FFB3C6?style=flat-square&logo=xiaomi&logoColor=D6336C)
 
 ---
 
