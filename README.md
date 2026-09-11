@@ -1,25 +1,22 @@
-
 <div align="center">
+
+# 👋 Hello, I'm FloppyCat!
+
+<a href="https://x.com/FloppyCat2026">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=E95420&center=true&vCenter=true&width=460&lines=C+%26+Java+Developer;Keep+striving+to+achieve+your+dreams" alt="Typing SVG" />
+</a>
+
+> 为实现梦想而加油
+>
+> *Keep striving to achieve your dreams*
+
+[![X](https://img.shields.io/badge/X-@FloppyCat2026-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/FloppyCat2026)
 
 </div>
 
 ---
 
-### 👋 Hello, I'm FloppyCat!
-
-> "为实现梦想而加油"
-
-> "Keep striving to achieve your dreams"
-
-- C and Java developer
-
-<p align="left">
-<a href="https://x.com/FloppyCat2026"><img src="https://img.shields.io/badge/X-@FloppyCat2026-000000?style=flat-square&logo=x&logoColor=white"></a>
-</p>
-
----
-
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 **Languages & Frameworks**
 
@@ -38,16 +35,23 @@
 
 ---
 
-### 💻 Workspace Setup
+## 💻 Workspace Setup
 
-**Operating Systems**
+**🖥️ Operating Systems**
 
 ![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
-
-**Devices**
+**📱 Devices**
 
 ![Xiaomi 14Pro](https://img.shields.io/badge/Xiaomi_14Pro-FF6900?style=flat-square&logo=xiaomi&logoColor=white)
 ![Redmi Turbo4Pro](https://img.shields.io/badge/Redmi_Turbo4Pro-FF6900?style=flat-square&logo=xiaomi&logoColor=white)
 ![RedmiBook Pro 16](https://img.shields.io/badge/RedmiBook_Pro_16-FF6900?style=flat-square&logo=xiaomi&logoColor=white)
+
+---
+
+<div align="center">
+
+<sub>⭐ Thanks for stopping by!</sub>
+
+</div>
